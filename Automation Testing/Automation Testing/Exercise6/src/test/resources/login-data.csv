@@ -1,0 +1,5 @@
+email,password,expected
+thinhbmde180185@fpt.edu.vn,123456,success
+thinhbuicoder@gmail.com,123456,success
+invalid@email.com,wrongpassword,error
+

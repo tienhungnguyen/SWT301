@@ -1,0 +1,5 @@
+# Created at 2025-07-21T01:23:19.396
+Boot Manifest-JAR contains absolute paths in classpath 'D:\SU25\SWT301\SWT301\Exercise6_VietCulture\Exercise6_VietCulture\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

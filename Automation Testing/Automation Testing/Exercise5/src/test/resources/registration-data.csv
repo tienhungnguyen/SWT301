@@ -1,0 +1,4 @@
+firstName,lastName,email,gender,mobile,day,month,year,subject,hobbies,address,state,city
+John,Doe,john.doe@email.com,Male,1234567890,15,January,1990,Math,Sports,123 Main St,NCR,Delhi
+Jane,Smith,jane.smith@email.com,Female,9876543210,20,February,1995,English,Reading,456 Oak Ave,Uttar Pradesh,Agra
+Bob,Johnson,bob.johnson@email.com,Male,5555555555,10,March,1988,Physics,Music,789 Pine Rd,Haryana,Karnal

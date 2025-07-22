@@ -1,0 +1,7 @@
+pages\BasePage.class
+tests\ProfileTest.class
+pages\LoginPage.class
+utils\DriverFactory.class
+tests\BaseTest.class
+tests\LoginTest.class
+pages\ProfilePage.class
