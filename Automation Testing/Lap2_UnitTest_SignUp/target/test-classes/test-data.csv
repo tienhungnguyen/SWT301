@@ -1,6 +1,0 @@
-username,password,email,expected,isCorporate
-john123,pass123,john@gmail.com,true,Personal
-,pass123,john@example.com,false,Other
-alice,short,alice@mail.com,false,Other
-bob123,password,bobmail.com,false,Invalid
-carol,password,carol@company.com,true,Corporate
